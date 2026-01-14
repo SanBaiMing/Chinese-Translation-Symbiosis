@@ -1,0 +1,181 @@
+{
+//该翻译补丁经检查没有任何问题。
+  "DialogueDictionary": {
+    //Bird
+    "Bird": "Bird",
+    "Hey, thanks for playing this demo. I made it to gather feedback on the gravity pedestals, which will be featured in Extinction.": "嘿，感谢你玩这个演示。我做这个是为了收集关于重力基座的反馈，它们将在 Extinction 中出现。",
+    "So, give me your input via the Outer Wilds Modding discord server!": "所以，请通过 Outer Wilds Modding 的 Discord 服务器给我反馈！",
+    "Okay, I will do that.": "好的，我会的。",
+    "Of course, I love you.": "当然，我爱你。",
+    "No, I HATE you!": "不，我讨厌你！",
+    "Gorp!": "Gorp！",
+    "Thanks for keeping it real, fr fr no cap ong": "感谢你将它完成，真的，不骗你。",
+    "I will see you once more, when Extinction is done.": "当 Extinction 完成后，我们还会再见面。",
+    "Zarp!": "Zarp！",
+    "Yarp.": "Yarp。",
+    "Narp.": "Narp。",
+    ":HearthianFlushed: emoji!": ":哈斯颜文字！",
+    ":D": ":D",
+    ":(": ":(",
+
+    //CliffWarning
+    "Warning: steep drop ahead.": "警告：前方有陡峭的悬崖。",
+
+    //Ernestito
+    "Ernestito": "厄内斯低托",
+    "Hi.": "嗨。",
+    "Who are you?": "你是谁？",
+    "Hello.": "你好。",
+    "Okay, enough with the small talk, bud. Let's get down to brass tacks. Do you subscribe to Hayek economic theory, or Keynesian economic theory?": "好了，别闲聊了，伙计。让我们切入正题。你支持哈耶克经济理论，还是凯恩斯经济理论？",
+    "Hayek, of course.": "当然是哈耶克。",
+    "Kaynes, no doubt.": "毫无疑问是凯恩斯。",
+    "Goodbye.": "再见。",
+    "So you really think we should let the working class suffer over the span of decades while the market sluggishly 'corrects' itself? That's rich!": "你真的认为我们应该让工人阶级在几十年间受苦，而市场缓慢地“自我纠正”？真是可笑！",
+    "For sure, I agree. Glad to hear we're on the same page, especially in the coming economic turmoil of the end of the universe.": "当然，我同意。很高兴听到我们意见一致，尤其是在宇宙末日的经济动荡即将来临之际。",
+    "Coward.": "懦夫。",
+    "I am Ernestito. That means 'Little Ernesto' in French.": "我是厄内斯低托。这在法语中的意思是“小厄内斯托”。",
+    "Hey, I actually know some French!": "嘿，我其实懂一些法语！",
+    "That's not French.": "那不是法语。",
+    "Oh yeah? Prove it!": "哦，是吗？证明给我看！",
+    "Je sais Français, en fait. Cela devrait être une preuve suffisante.": "Je sais Français, en fait. Cela devrait être une preuve suffisante（我其实懂法语。这应该足以证明）。",
+    "Dang, you're right. I can't speak French...": "该死，你说得对。我不会说法语...",
+    "Yes it is, you pedantic booger.": "是的，你这个迂腐的家伙。",
+    "Yeah, you're right.": "是的，你说得对。",
+    "Oh, my bad.": "哦，我的错。",
+    "Figured as much.": "我就知道。",
+    "Geez, why are you so mean?": "天哪，你为什么这么刻薄？",
+    "Napoleon complex.": "拿破仑情结。",
+
+    //Ernesto
+    "Ernesto the Curator": "馆长厄内斯托",
+    "Hey, it's me, Ernesto the magic talking anglerfish.": "嘿，是我，会说话的魔法安康鱼厄内斯托。",
+    "Nah, just kidding. I'm not actually talking to you right now.This is just a piece of paper you're reading.": "哈哈，开个玩笑啦。其实我并没有在和你说话。这只是一张纸上的内容而已。",
+    "What happened to you, Ernesto?": "厄内斯托，你怎么了？",
+    "What's that on your dangly-doo?": "你那个晃来晃去的东西是什么？",
+    "I got very old. This is what happens to people when they get very old. Didn't you know that?": "我变得非常老了。这就是人们变老时会发生的事情。你不知道吗？",
+    "Yes, of course. This museum has been very enriching.": "是的，当然。这个博物馆非常丰富。",
+    "No, I didn't. Can you tell me where everyone's gone?": "不，我不知道。你能告诉我大家都去哪儿了吗？",
+    "I'm glad you're enjoying it. Be sure to check out my pieces of modern art along the south wall.": "我很高兴你喜欢它。一定要看看我沿南墙的现代艺术作品。",
+    "The one on the left is titled \"Take the Jam money and run,\" while the one on the right is \"Take the Jam money and run (1).\"": "左边的那幅叫“拿了果酱钱就跑”，右边的那幅叫“拿了果酱钱就跑 (1)”。",
+    "They're subversive masterpieces, if I do say so myself.": "让我说，它们是颠覆性的杰作。",
+    "Need anything else?": "还需要什么吗？",
+    "Yeah, could you tell me where everyone's gone?": "是的，你能告诉我大家都去哪儿了吗？",
+    "No, goodbye.": "不，再见。",
+    "It's a telescope. I evolved it when I took on the job of museum curator. Nowadays it's my only source of vision.": "这是一个望远镜。我当上博物馆馆长时升级了它。如今它是我唯一的视觉来源。",
+    "Anyway, you look a bit out of sorts... Do you need any help?": "总之，你看起来有点不对劲...你需要帮助吗？",
+    "Yeah. Where did everyone go?": "是的。大家都去哪儿了？",
+    "No, I'm good. See ya!": "不，我很好。再见！",
+    "I ATE them all!": "我把他们都吃了！",
+    "Nah, just kidding. Your guess is as good as mine, kid.": "不，开个玩笑。你的猜测和我的一样，孩子。",
+    "If you're searching for answers, though, I might start by heading to the Quantum Grove. It'll clue you in.": "不过，如果你在寻找答案，我可能会先去量子树林。它会给你线索。",
+    "Thank you, Ernesto. I'll be going then.": "谢谢你，厄内斯托。那我走了。",
+    "Bye bye.": "拜拜。",
+
+    //Marker
+    "The <![CDATA[<color=orange>Crystal Workshop</color>]]> (40m)": "<![CDATA[<color=orange>水晶工坊</color>]]>（40米）",
+
+    //NeemInstruction
+    "NEEM: Do exercise caution around <![CDATA[<color=orange>refined gravity crystals</color>]]>—don't get caught without sufficient momentum or means of propulsion!": "尼姆：在<![CDATA[<color=orange>精炼重力水晶</color>]]>周围要小心——不要在没有足够动量或推进手段的情况下被困住！",
+
+    //Note
+    "SIGN": "标志",
+    "Notice: Lift out of order until Tektite returns!": "通知：电梯故障直到泰克泰回来！",
+
+    //PlaqueAnglerSkeleton
+    "He was forced to play The Outer Worlds.": "他被强迫玩《天外世界》（The Outer Worlds）。",
+
+    //PlaqueBallz
+    "Watch closely... these balls are entirely stationary!": "仔细观察...这些球是完全静止的！",
+    "That's because moons are illegal in this part of the galaxy.": "这是因为在星系的这个区域，卫星是非法的。",
+    "Dummy.": "傻瓜。",
+
+    //PlaqueGravity
+    "By walking up this ramp and then forward, you will experience a mysterious and powerful astronomical force for a brief moment.": "通过走上这个斜坡然后向前走，你将短暂地体验到一种神秘而强大的天文力量。",
+    "Go ahead and try it!": "来吧，试试看！",
+
+    //PlaqueHoop
+    "The discovery of these artifacts has led many experts to believe that the Nomai may have, in fact, been ballin'.": "这些文物的发现让许多专家相信，挪麦人可能非常擅长打球。",
+
+    //PlaqueLifeStory1
+    "I was born a long time ago to a single mother.": "很久以前，我出生在一个单亲家庭。",
+    "My father had not eloped with some mistress or left for cigarettes and dairy products — no, he was gorily enveloped in my mother's tissues, resulting in my conception (more on this later).": "我的父亲并没有和某个情妇私奔，也没有去买香烟和乳制品——不，他被我母亲的组织血腥地包裹，从而导致了我的诞生（稍后再细说）。",
+    "With her, I lived an idyllic childhood until she perished on a desert getaway.": "我和她一起度过了一个田园诗般的童年，直到她在一次沙漠旅行中去世。",
+
+    //PlaqueLifeStory2
+    "I learned in adolescence the fate of male anglerfish during reproduction.": "我在青春期了解到雄性安康鱼在繁殖过程中的命运。",
+    "It was quite the traumatizing thing to learn (in one blow, it also taught me the fate of my father) — through this, I realized I bore no romantic feelings for my own species.": "这是一件相当令人创伤的事情（同时，它也让我了解了我父亲的命运）——通过这件事，我意识到我对自己的物种没有浪漫的感觉。",
+
+    //PlaqueLifeStory3
+    "I met Geswaldo on a wintry night — the kind that makes one question bitterly the supposed virtues of warmth or love amid snow and wind.": "我在一个寒冷的夜晚遇到了盖斯瓦多——那种让人在风雪中痛苦地质疑温暖或爱的所谓美德的夜晚。",
+    "He approached me at the bar and introduced himself over a glass of saltwater on the rocks. For me, then, he ordered a glass of centipedes.": "他在酒吧接近我，并在一杯加冰的盐水中自我介绍。然后，他为我点了一杯蜈蚣。",
+    "By the end of the night, I was shocked at his touch. By the end of the month, I was his groom-to-be. I love him.": "到夜晚结束时，我对他的触碰感到震惊。到月底时，我成了他的未婚夫。我爱他。",
+
+    //PlaqueModernArt
+    "I, Ernesto, created these two stunning pieces of modern art.": "我，厄内斯托，创作了这两件令人惊叹的现代艺术作品。",
+    "The one on the left is titled \"Take the Jam money and run.\"": "左边的那幅叫“拿了果酱钱就跑”。",
+    "And the one on the right is \"Take the Jam money and run (1).\"": "右边的那幅叫“拿了果酱钱就跑 (1)”。",
+
+    //PlaqueNomaiSkeleton
+    "Believe it or not, he wasn't forced to play The Outer Worlds.": "信不信由你，他并没有被强迫玩《天外世界》。",
+    "He just got very old. This is what happens to people when they get very old.": "他只是老死了。这就是人们变老时会发生的事情。",
+
+    //PlaqueQBloom
+    "To yet be picked": "尚未被采摘",
+
+    //PlaqueQPicked
+    "Is the lowest bloom": "是最低的花朵",
+
+    //PlaqueQPool
+    "Below a starry pool": "在星空下的水池下方",
+
+    //PlaqueQTricked
+    "By the victim tricked": "在被欺骗的受害者旁",
+
+    //Recorder
+    "SALVIA: From a brief analysis, we know these blooms to be a highly potent hallucinogenic.": "萨尔维亚：通过简要分析，我们知道这些花朵是一种强效的致幻剂。",
+    "FITTONIA: Indeed. They could theoretically deliver this toxin through physical contact.": "费通尼亚：确实。理论上，它们可以通过物理接触传递这种毒素。",
+    "SALVIA: Curiously, they also emit this toxin into the atmosphere in smaller amounts.": "萨尔维亚：奇怪的是，它们还会以较小的量将这种毒素释放到大气中。",
+    "MUELLER: However, they clearly have no effect on us. Hypothesis: our kind's skin is not porous enough to be susceptible.": "穆勒：然而，它们显然对我们没有影响。假设：我们的皮肤不够多孔，因此不易受影响。",
+
+    //Spokesperson
+    "The Spokesperson": "代言人",
+    "...": "...",
+    "Galena?": "盖琳娜？",
+    "Where is everyone?": "大家都去哪儿了？",
+    "I am not they. I am a spokesperson of sorts. You may know me as this.": "我不是他们。我是某种代言人。你可以这样理解我。",
+    "Very funny, Galena.": "很好笑，盖琳娜。",
+    "A spokesperson? For whom?": "代言人？为谁代言？",
+    "Okay, that's freaky... Bye!": "好吧，这有点诡异...再见！",
+    "I do not jest, and I am not Galena; I am simply a spokesperson.": "我不是在开玩笑，我也不是盖琳娜；我只是一个代言人。",
+    "That's even freakier... I'm outta here.": "这更诡异了...我走了。",
+    "In time, you will learn this. For now, direct your curiousity beyond me.": "时机成熟时，你自会知道。现在，把你的好奇心转向别处吧。",
+    "Okay, that's nice... Bye!": "好吧，这很好...再见！",
+    "You will find the answer to this elsewhere. Perhaps visit our largest geyser.": "你会在别处找到这个答案。也许可以去我们最大的间歇泉看看。",
+    "Just tell me here!": "就在这里告诉我！",
+    "Okay, that's dumb... Bye!": "好吧，这很蠢...再见！",
+    "No. You clearly have yet to learn the lay of this land. Remedy this and we may converse further.": "不。你显然还没有了解这片土地的情况。解决这个问题，我们可能会进一步交谈。",
+    "So you've found it. Now you may see things as I've made them.": "所以你找到了它。现在你可以看到我创造的事物了。",
+    "Isn't it beautiful? Another creation of mine rests under this village. Visit him for direction; I do not think he will bite.": "它不美吗？我的另一个作品就在这个村庄下面。去拜访他寻求指引吧；我想他不会咬人。",
+
+    //SpokespersonEnd
+    //"The Spokesperson": "代言人",
+    "Did you enjoy the yarn we spun?": "你喜欢我们编织的故事吗？",
+    "We tailored it to you, to test if your kind endangered us.": "我们为你量身定制了它，以测试你的种族是否对我们构成威胁。",
+    "Your kind is quite erratic — but, noting the tardiness in your arrival, ultimately feeble.": "你的种族相当不稳定——但考虑到你到达此处的速度之慢，最终评价是你们毫无威胁。",
+    "Our assessment wasn’t all dismal, though; your kind’s virtue lies in its communality — its warmth. This we must grant you.": "不过，我们的评估并不全是悲观的；你的种族的美德在于其共同性——它的温和。这一点我们必须承认。",
+    "Your dominant concern was for your missing friends. This was endearing.": "你最关心的是你失踪的朋友。这很讨人喜欢。",
+    "Your kind has kindled themselves a hearth indeed! Though snuffed out young in this universe, we hope it imprints upon the next.": "你的种族确实为自己点燃了一个炉火！虽然在这个宇宙中早早熄灭，但我们希望它能在下一个宇宙中留下印记。",
+    "Go now: be with your friends.": "现在去吧：和你的朋友们在一起。"
+  },
+
+  "UIDictionary": {
+    //gameOverText
+    "You return to your community on Timber Hearth. They await you with open arms.": "你回到了你在木炉星上的社群。他们张开双臂欢迎你。",
+
+    //displayMessage
+    "UNIDENTIFIED ORGANIC PARTICULATE DETECTED IN ATMOSPHERE": "检测到大气中存在不明有机颗粒物",
+
+    "Bramble Bloom": "黑棘之花",
+    "recorder": "记录仪"
+  }
+}
